@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3o77tfQYDAUGF1dfJJFm1cQIZLOVpPpbgdrwEE9u9VIZreIq3VOTFpSYS7QJp5bMUWfFk7T9x4a9u+RQ9vWnuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nasir\\Desktop\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nasir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
